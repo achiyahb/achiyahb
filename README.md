@@ -6,13 +6,13 @@ My name is Achiya Haviv and I'm a fullstack developer. I'm from Israel, and curr
 
 ## &#x270d; Blog & Writing
 
+Currently, work on my new coding blog and this is my first [post][1] 
 
+## 😄 More about me
 
-## &#x270d; on me
+🌱 I have great passion to create awesome stuff with code
 
-seedling I have great passion to create awesome stuff with code
-
-speech_balloon Ask me about Coding, History and Pet care
+💬 Ask me about Coding, History and Pet care
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -20,6 +20,12 @@ speech_balloon Ask me about Coding, History and Pet care
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-mssql-informational?style=flat&logo=sqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+
+
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -48,7 +54,7 @@ speech_balloon Ask me about Coding, History and Pet care
 
 <!-- links to your social media accounts -->
 
-
+[1]: https://d17tfpwcy3k48c.cloudfront.net/blog-post/life-cycle-vs-use-effect
 [2]: https://github.com/achiyahb
 [3]: https://www.linkedin.com/in/achiya-haviv/
 
