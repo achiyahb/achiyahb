@@ -23,9 +23,12 @@ Currently, work on my new coding blog and this is my first [post][1]
 
 ## &#x1f4c8; GitHub Stats
 
-
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achiyahb&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=achiyahb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=achiyahb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Achiya GitHub Stats" />
+</a>
 
 
   
