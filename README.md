@@ -8,12 +8,6 @@ My name is Achiya Haviv and I'm a fullstack developer. I'm from Israel, and curr
 
 Currently, work on my new coding blog and this is my first [post][1] 
 
-## 😄 More about me
-
-🌱 I have great passion to create awesome stuff with code
-
-💬 Ask me about Coding, History and Pet care
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Webstorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
@@ -29,12 +23,12 @@ Currently, work on my new coding blog and this is my first [post][1]
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achiyahb&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=achiyahb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+
 
   
 
