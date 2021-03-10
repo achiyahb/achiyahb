@@ -22,7 +22,7 @@ Currently, work on my new coding blog and this is my first [post][1]
 
 
 ## &#x1f4c8; GitHub Stats
-<div style="display:flex;">
+<div style="display:flex; justify-content:space-around;">
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achiyahb&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
