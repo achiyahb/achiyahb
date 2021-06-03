@@ -48,6 +48,6 @@ Currently, work on my new coding blog and this is my first [post][1]
 
 <!-- links to your social media accounts -->
 
-[1]: https://d17tfpwcy3k48c.cloudfront.net/blog-post/life-cycle-vs-use-effect
+[1]: https://migration-blog.vercel.app/blog-post/life-cycle-vs-use-effect
 [2]: https://github.com/achiyahb
 [3]: https://www.linkedin.com/in/achiya-haviv/
