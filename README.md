@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Achiya Haviv and I'm a fullstack developer. I'm from Israel, and currently working at RPGECOM. You can find me on  [![LinkedIn][3.2]][3].
+My name is Achiya Haviv and I'm a fullstack developer. I'm from Israel, and currently working at Coing.co. You can find me on  [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
