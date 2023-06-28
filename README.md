@@ -16,6 +16,7 @@ Currently, work on my new coding blog and this is my first [post][1]
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-mssql-informational?style=flat&logo=sqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 
 
