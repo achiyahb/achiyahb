@@ -6,7 +6,7 @@ My name is Achiya Haviv and I'm a fullstack developer. I'm from Israel, and curr
 
 ## &#x270d; Blog & Writing
 
-Currently, work on my new coding blog and this is my first [post][1] 
+Love to write about code and technology, feel free to read more on [my blog][1] .
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
